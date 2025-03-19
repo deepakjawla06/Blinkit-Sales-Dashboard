@@ -25,3 +25,7 @@ Blinkit sales report for a particular time period
 ## Dashboard
 ![Blinkit Dashboard](https://github.com/user-attachments/assets/91565781-4094-45d1-88d5-389728c66248)
 
+
+## final conclusion
+The Blinkit Sales Dashboard leverages Power BI to visualize sales performance across regions, enabling data-driven decision-making through interactive insights and trend analysis.
+
